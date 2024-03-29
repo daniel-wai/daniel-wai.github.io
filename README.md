@@ -1,9 +1,3 @@
-<nav><img src="staticfiles/images/logo-icon-64x64.png" alt="logo-icon-64x64"></nav>
-<h1>The Chronicles of Dan</h1> 
-
-<h2>Introduction</h2>
-Hi, I'm Dan, a creator, programmer, coffee lover and baker. Here are the chronicles of my personal projects!
-
 <h2>Social Media</h2>
 <ul>
   <li> <a href="https://www.youtube.com/@chroniclesofdanw">Youtube</a> </li>
