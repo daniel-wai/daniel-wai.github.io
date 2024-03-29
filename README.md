@@ -12,5 +12,5 @@ Hi, I'm Dan, a creator, programmer, coffee lover and baker. Here are the chronic
 </ul>
 <h2><a href="https://github.com/daniel-wai/">Github Projects</a></h2>
 <ul>
-  <li> <a href="https://github.com/daniel-wai/CoffeeBrewHelperWeb.git">Coffee Brew Helper App</a> </li>
+  <li> <a href="https://github.com/daniel-wai/CoffeeBrewHelperWeb.git">Coffee Brew Helper Application</a> </li>
 </ul>
